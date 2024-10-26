@@ -16,24 +16,24 @@ LEGEND OF IOKA
 
 PROJECT STRUCTURE
 /Story_folder
- ├── Intro.txt
- ├── ActOne.txt
- ├── ActTwo.txt
- ├── ActTwo_2.txt
- ├── ActTwo_3.txt
- ├── ActTwo_final.txt
- ├── ActThree.txt
- ├── ActThree_2.txt  
- ├── Thanks.txt
+ ├── Intro.txt 
+ ├── ActOne.txt 
+ ├── ActTwo.txt 
+ ├── ActTwo_2.txt 
+ ├── ActTwo_3.txt 
+ ├── ActTwo_final.txt 
+ ├── ActThree.txt 
+ ├── ActThree_2.txt   
+ ├── Thanks.txt 
 
 /Java Classes
-  ├── Character.java
-  ├── Item.java
-  ├── Main.java
-  ├── Move.java
-  ├── Player.java
-  ├── GameLogic.java
-  ├── testingJUnit.java
+  ├── Character.java 
+  ├── Item.java 
+  ├── Main.java 
+  ├── Move.java 
+  ├── Player.java 
+  ├── GameLogic.java 
+  ├── testingJUnit.java 
 More information in BUILDING CLASS STEPS below
 
 
