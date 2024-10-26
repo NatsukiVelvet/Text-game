@@ -7,10 +7,10 @@ LEGEND OF IOKA
 - Legend of Ioka solves the problem of offering an engaging, story-driven RPG experience by combining immersive storytelling, strategic turn-based combat, and exploration within a rich world filled with lore, danger, and adventure. Built in Java, it provides players with meaningful character development and tactical decision-making in battles, all in a lightweight, text-based format that is accessible in coding environments, making it ideal for those who prefer or are limited to non-graphical interfaces.
 
 ## HOW TO RUN THE PROGRAM
-1. Unzip the folder majorAssignmentTopic1
+1. Unzip the folder 
 2. Open VScode
 3. “Open Folder…” in Vscode
-4. Select the folder majorAssignmentTopic1
+4. Select the folder you just downloaded
 5. Open the file Main.java
 6. Run the program
 
