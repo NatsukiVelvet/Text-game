@@ -14,7 +14,7 @@ LEGEND OF IOKA
 5. Open the file Main.java
 6. Run the program
 
-PROJECT STRUCTURE
+# PROJECT STRUCTURE
 /Story_folder
   ├── Intro.txt 
   ├── ActOne.txt 
